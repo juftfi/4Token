@@ -49,7 +49,7 @@ export default function HomePage() {
           {/* X and Telegram buttons */}
           <div className="mt-8 flex justify-center gap-4">
             <a
-              href="https://x.com/4share"
+              href="https://x.com/4Token"
               target="_blank"
               rel="noopener noreferrer"
               className="hover-glow flex h-12 w-12 items-center justify-center rounded-xl border border-emerald-500/30 bg-white/5 text-white transition-all hover:border-emerald-500/60 hover:bg-emerald-500/20 hover:scale-105"
@@ -60,7 +60,7 @@ export default function HomePage() {
               </svg>
             </a>
             <a
-              href="https://t.me/4share"
+              href="https://t.me/4Token"
               target="_blank"
               rel="noopener noreferrer"
               className="hover-glow flex h-12 w-12 items-center justify-center rounded-xl border border-emerald-500/30 bg-white/5 text-white transition-all hover:border-emerald-500/60 hover:bg-emerald-500/20 hover:scale-105"
@@ -98,7 +98,7 @@ export default function HomePage() {
               <div>
                 <h3 className="font-semibold text-white group-hover:text-emerald-400 transition-colors">Tax to Shared Treasury</h3>
                 <p className="text-sm text-white/70">
-                  100% of tax goes to 4Share treasury. Each token is linked to your account.
+                  100% of tax goes to 4Token treasury. Each token is linked to your account.
                 </p>
               </div>
             </div>
@@ -118,9 +118,9 @@ export default function HomePage() {
 
         {/* Project explanation */}
         <section className="hover-glow rounded-2xl border border-emerald-500/20 bg-gradient-to-br from-white/5 to-emerald-500/5 p-8 backdrop-blur-sm">
-          <h2 className="mb-6 text-2xl font-bold text-white">About 4Share</h2>
+          <h2 className="mb-6 text-2xl font-bold text-white">About 4Token</h2>
           <p className="mb-4 text-white/80 leading-relaxed">
-            4Share is a platform that lets you launch <strong className="text-emerald-400">Tax Tokens</strong> on
+            4Token is a platform that lets you launch <strong className="text-emerald-400">Tax Tokens</strong> on
             Four.Meme (BNB Chain). When you create a token, 100% of the trading tax
             goes to a shared treasury. Your share is linked to your wallet, and you
             can claim it anytime from the Claim page.

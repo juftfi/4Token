@@ -24,7 +24,7 @@ export function TreasuryAddress() {
               </svg>
             </div>
             <div className="min-w-0 flex-1">
-              <p className="text-xs text-white/60 mb-1">4Share Contract</p>
+              <p className="text-xs text-white/60 mb-1">4Token Contract</p>
               <p className="font-mono text-sm text-emerald-400 truncate">
                 {TREASURY_ADDRESS}
               </p>
