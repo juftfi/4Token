@@ -49,7 +49,7 @@ export default function HomePage() {
           {/* X and Telegram buttons */}
           <div className="mt-8 flex justify-center gap-4">
             <a
-              href="https://x.com/4Token"
+              href="https://x.com/4TokenDev"
               target="_blank"
               rel="noopener noreferrer"
               className="hover-glow flex h-12 w-12 items-center justify-center rounded-xl border border-emerald-500/30 bg-white/5 text-white transition-all hover:border-emerald-500/60 hover:bg-emerald-500/20 hover:scale-105"
@@ -60,7 +60,7 @@ export default function HomePage() {
               </svg>
             </a>
             <a
-              href="https://t.me/4Token"
+              href="https://t.me/+KPlHSGWRFzY2NTll"
               target="_blank"
               rel="noopener noreferrer"
               className="hover-glow flex h-12 w-12 items-center justify-center rounded-xl border border-emerald-500/30 bg-white/5 text-white transition-all hover:border-emerald-500/60 hover:bg-emerald-500/20 hover:scale-105"
