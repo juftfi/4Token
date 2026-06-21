@@ -8,9 +8,7 @@ export function Header() {
     <header className="fixed left-0 right-0 top-0 z-50 border-b border-emerald-500/20 bg-black/80 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4">
         <Link href="/" className="group flex items-center gap-2 transition">
-          <span className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-green-500 bg-clip-text text-transparent group-hover:from-emerald-300 group-hover:to-green-400 transition-all">
-            <img src="https://raw.githubusercontent.com/juftfi/4Token/refs/heads/main/public/2.png" alt="4Token" width="197" height="74">
-          </span>
+          <img src="https://raw.githubusercontent.com/juftfi/4Token/refs/heads/main/public/2.png" alt="4Token" width="197" height="74"></img>
           <span className="hidden text-xs text-white/50 sm:inline">Tax · Four.Meme · Treasury</span>
         </Link>
 
